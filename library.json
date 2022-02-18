@@ -1,0 +1,24 @@
+{
+    "name": "WebSocketLib",
+    "version": "1.0.0",
+    "description": "Test Library",
+    "keywords": "Esp32,EEPROM,Modules",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/hkarthik97/WebSocketLib.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Karthik",
+        "email": "karthik@zeddigital.net",
+        "url": "https://www.zeddigital.net"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+    },
+    "frameworks": ["Arduino"],
+    "platforms": "*"
+  }
